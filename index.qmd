@@ -2,6 +2,7 @@
 title: "STA 9750 Submission Material"
 author: "Omar Melendez"
 format: html
+engine: knitr
 ---
 
 ## About Me
@@ -15,3 +16,14 @@ GitHub ID: omarmelendez0903-alt
 ## Fun Fact
 
 I am a dad of two and enjoy playing recreational sports, especially football and softball.
+
+## Last Updated
+
+```{r}
+#| include: false
+1+1
+```
+
+------------
+
+Last Updated: `r format(Sys.time(), "%A %m %d, %Y at %I:%M%p")`
