@@ -7,6 +7,6 @@ data/
 *.xlsx
 *.pdf
 *_files/
-*.html
+
 /.quarto/
 **/*.quarto_ipynb
