@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "Lab 2 Quarto.html",
+    "href": "Lab 2 Quarto.html",
+    "title": "Omar Melendez",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "Lab 2 Quarto.html#quarto",
+    "href": "Lab 2 Quarto.html#quarto",
+    "title": "Omar Melendez",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "Lab 2 Quarto.html#running-code",
+    "href": "Lab 2 Quarto.html#running-code",
+    "title": "Omar Melendez",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "Annual Home Sales in Houston.html",
+    "href": "Annual Home Sales in Houston.html",
+    "title": "Houston Housing Market",
+    "section": "",
+    "text": "Loading required package: tidyverse\n\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.2.1     ✔ readr     2.2.0\n✔ forcats   1.0.1     ✔ stringr   1.6.0\n✔ ggplot2   4.0.3     ✔ tibble    3.3.1\n✔ lubridate 1.9.5     ✔ tidyr     1.3.2\n✔ purrr     1.2.2     \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\n\n\n\n\n\n\n\n\n\nThis chart shows annual home sales in Houston changed over time."
+  },
+  {
+    "objectID": "Annual Home Sales in Houston.html#annual-home-sales-in-houston",
+    "href": "Annual Home Sales in Houston.html#annual-home-sales-in-houston",
+    "title": "Houston Housing Market",
+    "section": "",
+    "text": "Loading required package: tidyverse\n\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.2.1     ✔ readr     2.2.0\n✔ forcats   1.0.1     ✔ stringr   1.6.0\n✔ ggplot2   4.0.3     ✔ tibble    3.3.1\n✔ lubridate 1.9.5     ✔ tidyr     1.3.2\n✔ purrr     1.2.2     \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\n\n\n\n\n\n\n\n\n\nThis chart shows annual home sales in Houston changed over time."
+  },
+  {
+    "objectID": "Annual Home Sales in Houston.html#average-sale-price-by-month",
+    "href": "Annual Home Sales in Houston.html#average-sale-price-by-month",
+    "title": "Houston Housing Market",
+    "section": "Average Sale Price by Month",
+    "text": "Average Sale Price by Month"
+  },
+  {
+    "objectID": "Annual Home Sales in Houston.html#average-price-of-houses-sold-in-texas-by-month",
+    "href": "Annual Home Sales in Houston.html#average-price-of-houses-sold-in-texas-by-month",
+    "title": "Houston Housing Market",
+    "section": "Average Price of Houses Sold in Texas by Month",
+    "text": "Average Price of Houses Sold in Texas by Month"
+  },
+  {
+    "objectID": "Annual Home Sales in Houston.html#average-price-of-houses-sold-in-2015-by-city-in-texas",
+    "href": "Annual Home Sales in Houston.html#average-price-of-houses-sold-in-2015-by-city-in-texas",
+    "title": "Houston Housing Market",
+    "section": "Average Price of Houses Sold in 2015 by City in Texas",
+    "text": "Average Price of Houses Sold in 2015 by City in Texas"
+  }
+]
