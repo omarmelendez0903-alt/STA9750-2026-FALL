@@ -4,5 +4,14 @@ author: "Omar Melendez"
 format: html
 ---
 
+## About Me
 
+I am currently pursuing an M.S. in Business Analytics at Baruch College. I work in the financial services industry, where my experience includes client service, KYC/KYB, financial data, and research. Through my coursework, I am developing my skills in Excel, Python, SQL, R, and Tableau. My career goal is to transition into a data-driven financial analyst, business analyst, or risk-related role.
 
+## GitHub
+
+GitHub ID: omarmelendez0903-alt
+
+## Fun Fact
+
+I am a dad of two and enjoy playing recreational sports, especially football and softball.
