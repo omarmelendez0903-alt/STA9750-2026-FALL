@@ -6,7 +6,7 @@ data/
 *.csv
 *.xlsx
 *.pdf
-*_files/
+/*_files/
 
 /.quarto/
 **/*.quarto_ipynb
